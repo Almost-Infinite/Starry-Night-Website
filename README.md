@@ -6,7 +6,7 @@
 
 # Starry Night Website Animation Effects using CSS & Vanilla Javascript
 
-[![Site](img/screen.gif)](link)
+[![Site](img/screen.gif)](https://almost-infinite.github.io/Starry-Night-Website/)
 
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=almost-infinite" alt="almost-infinite" style="border-radius: 30px;" /> </p>
